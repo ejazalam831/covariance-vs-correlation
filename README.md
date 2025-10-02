@@ -44,5 +44,3 @@ pip install numpy pandas matplotlib seaborn scipy
 ## Contributing
 Suggestions and improvements are welcome! Feel free to open an issue or submit a pull request.
 
-## License
-MIT License - feel free to use this for learning and teaching purposes.
